@@ -1,0 +1,4 @@
+2019-03-03 11:01:47,235 - root - INFO - ********TEST START********
+2019-03-03 11:01:47,235 - root - ERROR - type object 'HTMLTestRunner' has no attribute 'HTMLTestRunner'
+2019-03-03 11:01:47,235 - root - INFO - *********TEST END*********
+2019-03-03 11:01:47,235 - root - INFO - Doesn't send report email to developer.
